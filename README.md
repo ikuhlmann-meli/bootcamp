@@ -12,7 +12,7 @@
 ## Módulo 1 - Boas Vindas Setup Tecnológico
 
 - Boas Vindas
-- Setuo
+- Setup
 - Prioridades em IT
 
 ## Módulo 2 - Git
