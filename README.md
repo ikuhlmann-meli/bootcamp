@@ -1,6 +1,12 @@
 # Bootcamp - Wave 4 - Mercado Livre
 
-Grupo 11
+### Grupo 11
+
+- [Stéphanie da Silva Leal]
+- [Lucas Garcia Macchione Prudente Correa]
+- [Mauro Bergonzoni Junqueira]
+- [Iberê Abondanza Kuhlmann]
+- [Matheus Santos Alencar]
 
 
 ## Módulo 1 - Boas Vindas Setup Tecnológico
@@ -12,7 +18,7 @@ Grupo 11
 ## Módulo 2 - Git
 
 - Aula síncrona GIT
-- Prática Integradora 1
+- [Prática Integradora 1](https://github.com/matheussalencar/exec-git1)
 - Prática Integradora 2
 - Material de apoio
 - Conhecendo Fury
@@ -20,7 +26,7 @@ Grupo 11
 ## Módulo 3 - POO + Java
 
 - Java I - Aula 1
-- Introdução a Java TM
+- [Introdução a Java TM](https://github.com/ikuhlmann-meli/bootcamp/tree/main/poo-java/Aula%201%20-%20TM%20-%20Pratica%202)
 - Introdução a Java TT
 
 - Java II - Aula 2
