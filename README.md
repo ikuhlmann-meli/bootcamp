@@ -2,11 +2,11 @@
 
 ### Grupo 11
 
-- [Stéphanie da Silva Leal]
-- [Lucas Garcia Macchione Prudente Correa]
-- [Mauro Bergonzoni Junqueira]
-- [Iberê Abondanza Kuhlmann]
-- [Matheus Santos Alencar]
+- [Stéphanie da Silva Leal](https://github.com/stephleal)
+- [Lucas Garcia Macchione Prudente Correa](https://github.com/LucasGarcia97)
+- [Mauro Bergonzoni Junqueira](https://github.com/mbjunqueiraweb)
+- [Iberê Abondanza Kuhlmann](https://github.com/ikuhlmann-meli)
+- [Matheus Santos Alencar](https://github.com/matheussalencar)
 
 
 ## Módulo 1 - Boas Vindas Setup Tecnológico
@@ -35,5 +35,12 @@
 - Java II - Aula 2
 - - Introdução a Java TM
 - - - [Pratica Integradora](https://github.com/matheussalencar/poo-java)
-
 - - Introdução a Java TT
+- - - Pratica Integradora 1
+- - - Pratica Integradora 2
+
+- Java III - Aula 3
+- - Introdução a Java TM
+- - - Pratica Integradora 1
+
+
