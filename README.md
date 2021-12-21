@@ -36,7 +36,7 @@
 - - Introdução a Java TM
 - - - [Pratica Integradora](https://github.com/matheussalencar/poo-java)
 - - Introdução a Java TT
-- - - [Pratica Integradora 1] (https://github.com/stephleal/praticas_integradoras_bootcamp_IT.git)
+- - - [Pratica Integradora 1](https://github.com/stephleal/praticas_integradoras_bootcamp_IT.git)
 - - - [Pratica Integradora 1 ex 2](https://github.com/LucasGarcia97/FiguraGeometrica)
 - - - [Pratica Integradora 2](https://github.com/matheussalencar/funcionario-poo)
 
