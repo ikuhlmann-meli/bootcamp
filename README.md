@@ -37,7 +37,7 @@
 - - - [Pratica Integradora](https://github.com/matheussalencar/poo-java)
 - - Introdução a Java TT
 - - - Pratica Integradora 1
-- - - Pratica Integradora 2
+- - - [Pratica Integradora 2](https://github.com/matheussalencar/funcionario-poo)
 
 - Java III - Aula 3
 - - Introdução a Java TM
