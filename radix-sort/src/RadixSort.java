@@ -1,27 +1,61 @@
 import java.lang.reflect.Array;
 import java.util.Arrays;
+import java.util.LinkedList;
 import java.util.List;
 
 public class RadixSort {
 
+
     public static void radixSort(int iArr[]){
         String strArr[] = new String[iArr.length];
-        for (int i = 0; i < iArr.length; i++){
-            //Integer nn = (Integer)i;
 
+        for (int i = 0; i < iArr.length; i++){
             strArr[i] = ((Integer) iArr[i]).toString();
-            System.out.println(greatestLength(strArr));
-            String newStringArr = leftPad(strArr[i], 8);
-            System.out.println(newStringArr);
         }
+
+        for (int i = 0; i < iArr.length; i++){
+            strArr[i] = leftPad(strArr[i], greatestLength(strArr));
+
+            System.out.println(strArr[i]);
+        }
+
+        LinkedList[] L = new LinkedList[10];
+
+
+
+
+
+
+
+
+
+//        LinkedList[] list = new LinkedList[6];
+//        for (int i = 0; i < 6; i++) {
+//            if (list[i] == null) {
+//                list[i] = new LinkedList();
+//                int temp = i;
+//                for (int j = 0; j < temp + 1; j++) {
+//                    list[i].add(j);
+//                }
+//            }
+//            System.out.print(list[i]);
+//        }
+
+
+
+
+
+
+
+
     }
 
-    private static int greatestLength(String[] strArr){
-        int greatestLength = 0;
+    private static int greatestLength(String strArr[]){
+        int greatest = 0;
         for (String str: strArr) {
-            if (str.length() > greatestLength) greatestLength = str.length();
-        }
-        return greatestLength;
+            if (str.length() > greatest) greatest = str.length();
+       }
+        return greatest;
     }
 
     public static String leftPad(String stringedNumber, int digits){
@@ -32,7 +66,6 @@ public class RadixSort {
         char[] newCharArray = new char[digits];
 
         for (int i = 0; i < digits; i++) {
-            newCharArray[i] = '0';
 
             if (i < diff) {
                 newCharArray[i] = '0';
