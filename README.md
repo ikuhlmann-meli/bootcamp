@@ -53,4 +53,4 @@
 - - [Prática Integradora 1](https://github.com/stephleal/praticas_integradoras_numeros_romanos.git)
 
 - Spring II
-- - [Pratica Integradora 2](https://github.com/ikuhlmann-meli/bootcamp/tree/main/imobiliaria)
+- - [Imobiliária](https://github.com/ikuhlmann-meli/bootcamp/tree/main/imobiliaria)
