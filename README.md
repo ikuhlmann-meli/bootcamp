@@ -25,32 +25,37 @@
 
 ## Módulo 3 - POO + Java
 
-- Java I - Aula 1
-- - Introdução a Java TM
-- - - [Pratica Integradora 1](https://github.com/mbjunqueiraweb/praticaintegradorajava)
+- Java I
+- - Introdução a Java
+- - - [Algoritmos com números](https://github.com/mbjunqueiraweb/praticaintegradorajava)
 - - - [Pratica Integradora 1 -- Numero Primo](https://github.com/LucasGarcia97/praticaintegradorajava.git)
-- - - [Pratica Integradora 2](https://github.com/ikuhlmann-meli/bootcamp/tree/main/poo-java/Aula%201%20-%20TM%20-%20Pratica%202)
-- - Introdução a Java TT
-- - -  Pratica Integradora
+- - - [Praticando com arrays](https://github.com/ikuhlmann-meli/bootcamp/tree/main/poo-java/src)
+- - Coleções e Listas
+- - -  Radix Sort
 
-- Java II - Aula 2
-- - Introdução a Java TM
-- - - [Pratica Integradora](https://github.com/matheussalencar/poo-java)
-- - Introdução a Java TT
-- - - [Pratica Integradora 1](https://github.com/stephleal/praticas_integradoras_bootcamp_IT.git)
-- - - [Pratica Integradora 1 ex 2](https://github.com/LucasGarcia97/FiguraGeometrica)
-- - - [Pratica Integradora 2](https://github.com/matheussalencar/funcionario-poo)
+- Java II
+- - Programação Orientada a Objetos
+- - - [POO - Escola](https://github.com/matheussalencar/poo-java)
+- - Heraná e Polimorfismo
+- - - [POO - Senhas](https://github.com/stephleal/praticas_integradoras_bootcamp_IT.git)
+- - - [POO - Figuras Geométricas](https://github.com/LucasGarcia97/FiguraGeometrica)
+- - - [POO - FUncionários](https://github.com/matheussalencar/funcionario-poo)
 
-- Java III - Aula 3
-- - Introdução a Java TM
-- - - Pratica Integradora 1
+- Java III
+- - Interfaces e Genérics
+- - - Precedente - ToDo
 
 - Java Prática 
-- - [Save the SaveTheRopa S.A] (https://github.com/LucasGarcia97/Ex_GuardaRoupa.git)
+- - [Save the SaveTheRopa S.A](https://github.com/LucasGarcia97/Ex_GuardaRoupa.git)
 - - [Dakar](https://github.com/matheussalencar/Dakar-oop)
 
+## Módulo 4 - Spring
+
 - Spring I
-- - [Prática Integradora 1](https://github.com/stephleal/praticas_integradoras_numeros_romanos.git)
+- - Spring Platform
+- - - [Números Romanos](https://github.com/stephleal/praticas_integradoras_numeros_romanos.git)
 
 - Spring II
-- - [Imobiliária](https://github.com/ikuhlmann-meli/bootcamp/tree/main/imobiliaria)
+- - Múltiplos Parâmetros e JSON
+- - - Obter Diploma
+- - - [Imobiliária](https://github.com/ikuhlmann-meli/bootcamp/tree/main/imobiliaria)
